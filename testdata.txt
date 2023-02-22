@@ -3,7 +3,11 @@ hello world
 
 =======
 hello
+<<<<<<< HEAD
 >>>>>>> branch2
 hello TTN!
 hello
 hey
+=======
+hello again
+>>>>>>> 7e733f7fc0d47d3403998c84ef9a5b3f596df823
